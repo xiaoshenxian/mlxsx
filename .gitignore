@@ -46,6 +46,19 @@ coverage.xml
 *.cover
 .hypothesis/
 .pytest_cache/
+test.py
+
+# eclipse ignore
+.settings/
+.project
+.classpath
+.fatjar
+
+# idea ignore
+.idea/
+*.ipr
+*.iml
+*.iws
 
 # Translations
 *.mo

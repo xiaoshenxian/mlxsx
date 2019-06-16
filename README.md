@@ -1,2 +1,2 @@
 # mlxsx
-TensorFlow machine learning modules and tools.
+Tensorflow machine learning modules and tools.
